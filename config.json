@@ -59,5 +59,20 @@
         }
       ]
     }
+    ,
+    {
+      "id": "building-rest-apis-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create a small REST API using FastAPI to learn routing, validation, and CRUD operations.",
+      "path": "assignments/building-rest-apis-fastapi",
+      "dueDate": "2026-01-20",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    }
   ]
 }
